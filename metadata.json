@@ -1,0 +1,5 @@
+{
+  "name": "PM Command Center",
+  "description": "A high-performance project management dashboard featuring timeline views, dependency tracking, blocker management, and smart workload analytics.",
+  "requestFramePermissions": []
+}
